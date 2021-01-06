@@ -1,0 +1,22 @@
+body{
+    margin: 0 auto;
+    font-family:'Audiowide', cursive;;
+}
+.Menu{
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 20px;
+    
+}
+.Menu a{
+    text-decoration: none;
+    padding: 2%;
+    
+}
+h1{
+    font-size:50px;
+}
+.half-width{
+    width:40%;
+    margin:1%;
+}
